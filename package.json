@@ -1,0 +1,24 @@
+{
+  "name": "kachi-new-guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kachi.js",
+  "scripts": {
+    "start": "node kachi.js"
+  },
+  "author": "Kachi",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.7",
+    "config.json": "^0.0.4",
+    "discord.js": "^12.5.3",
+    "loader": "^2.1.1",
+    "memory": "0.0.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongodb": "^4.5.0",
+    "mongoose": "^5.13.14",
+    "request": "^2.88.2",
+    "table": "^6.7.1"
+  }
+}

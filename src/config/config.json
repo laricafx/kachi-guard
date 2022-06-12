@@ -1,0 +1,27 @@
+
+{
+    "kachi": "929309333127331850",
+    "owner": ["929309333127331850","929309333127331850"],
+    "prefix": "!",
+    "mainbots": {
+        "game": "Developed by Antichrist.",
+        "type": "PLAYING",
+        "status": "dnd"
+    },
+    "helperbots": {
+        "game": "Developed by Antichrist.",
+        "type": "PLAYING",
+        "status": "dnd"
+    },
+    "footer": "Developed by Antichrist.",
+    "emojis": {
+        "onay": "👍",
+        "notr": "🤳",
+        "red": "👎"
+    },
+    "guildID": "937096765801381909",
+    "voiceChannel": "968969213509259344",
+    "booster": "939860188486324264",
+    "jail": "968969158417072239",
+    "url": "thegehenna"
+}
